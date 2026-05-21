@@ -20,3 +20,6 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 - Citadel of Lost Memories (v5.5)
 - Realistically a Tower (v6.??)
 - Steeple of Random Difficulty Chart (v6.??)
+
+> [!NOTE]
+> The version numbers in brackets represent the kit version that the obby model is using.
