@@ -1,4 +1,4 @@
-# TasmanianRex-Legacy-Obbies-and-Towers
+# Tas-Legacy-Obbies
 A list of towers archieved in this repository.
 
 # Commentary
