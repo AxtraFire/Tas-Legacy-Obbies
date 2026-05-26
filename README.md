@@ -18,8 +18,9 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 - Steeple of Colour Switching (v5.5)
 - Tower of Eternal Punishment (v5.5)
 - Citadel of Lost Memories (v5.5)
-- Realistically a Tower (v6.??)
-- Steeple of Random Difficulty Chart (v6.??)
+- Realistically a Tower (v6+)
+- Steeple of Random Difficulty Chart (v6+)
 
 > [!NOTE]
 > The version numbers in brackets represent the kit version that the obby model is using.
+> For towers that are built using the v6 kit, it is highly recommeneded that you update them to the lastest version.
