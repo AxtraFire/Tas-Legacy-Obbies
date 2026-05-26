@@ -23,4 +23,4 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 
 > [!NOTE]
 > The version numbers in brackets represent the kit version that the obby model is using.
-> For towers that are built using the v6 kit, it is highly recommeneded that you update them to the lastest version.
+> For towers that are built using the v6 kit, it is highly recommeneded that you update them to the latest version.
