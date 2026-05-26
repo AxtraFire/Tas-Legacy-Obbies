@@ -24,3 +24,6 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 > [!NOTE]
 > The version numbers in brackets represent the kit version that the obby model is using.
 > For towers that are built using the v6 kit, it is highly recommeneded that you update them to the latest version.
+
+> [!TIP]
+> Confused where is the towers' models? Head over to releases, download the zip file, unzip it, click on Tas-Legacy-Obbies-Stable and click on Obbies. You will see the towers' .rbxl files.
