@@ -10,7 +10,7 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 # Obbies
 - Tower of Cancer (v5.35)
 - Tower of True Cancer (v5.5)
-- Tower of Cursed Ideas (v5.5)
+- Tower of Cursed Ideas (v6+)
 - Tower of Real Cancer (v5.5)
 - Edifice of Short and Sweet: Classic (v5.5)
 - Steeple of Short and Sweet (v5.5)
