@@ -8,6 +8,14 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 > Reporting issues are disabled, since I don't want to deal with individual obby-related issues. Please also note that obby models may break in future EToH kit versions.
 
 # Obbies
+## Tiered Obbies
+- Freaky (v5.5)
+- Improbability (v5.5)
+- Skylight (v5.5)
+- Wood and Steel (v5.5)
+- GCoTTC Floor (v5.5)
+
+## Towers
 - Tower of Cancer (v5.35)
 - Tower of True Cancer (v5.5)
 - Tower of Cursed Ideas (v6+)
@@ -20,6 +28,12 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 - Citadel of Lost Memories (v5.5)
 - Realistically a Tower (v6+)
 - Steeple of Random Difficulty Chart (v6+)
+
+## Abandoned
+- The Black Plate (N/A)
+- Abandoned Easy Tower (v5.5)
+- Tower of Vivid Colours (v5.5)
+- Abandoned SC Tower (v5.5)
 
 > [!NOTE]
 > The version numbers in brackets represent the kit version that the obby model is using.
