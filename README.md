@@ -44,4 +44,4 @@ Hello there! I quitted Roblox a while ago because of Roblox's moderation problem
 > Confused where is the towers' models? Head over to releases, download the zip file, unzip it, click on Tas-Legacy-Obbies-Stable and click on Obbies. You will see the towers' .rbxl files.
 
 # Wiki
-Having problems? Check out the [wiki](https://github.com/AxtraFire/Tas-Legacy-Obbies/wiki) for guides made by the author.
+Having problems? You can check out the [wiki](https://github.com/AxtraFire/Tas-Legacy-Obbies/wiki).
