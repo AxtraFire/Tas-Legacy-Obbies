@@ -1,6 +1,9 @@
 # Tas-Legacy-Obbies
 A list of obbies archieved in this repository.
 
+> [!WARNING]
+> Note that this repository is archived. You can still download my obbies, but I don't have any plans to continue making and uploading obbies into this repository.
+
 # Commentary
 Hello there! I quitted Roblox a while ago because of Roblox's moderation problems. As time files, there is a looming threat that Roblox will impose more restrictions on games, making players unable to play any game that is not approved by Roblox in the future. In order to preserve my obbies and tower that I made, I am uploading all of my finished obbies and towers, so you can revisit my towers in the future. Anyway, here is the list of towers that is available in this repository.
 
